@@ -1,0 +1,564 @@
+
+
+.container-fluid{
+
+    color: white;
+    
+    padding: 4px;
+    height: auto;
+   
+
+}
+
+
+
+
+.button1{
+
+    border-radius: 20px;
+    padding: 0 15px;
+    background-color: #F8F8FF;
+ 
+}
+
+.button1:hover{
+
+    border-radius: 20px;
+    
+    background-color: royalblue;
+   color: seashell;
+   transition: .4s;
+ 
+}
+.mar{
+    color: greenyellow;
+    background-color:  royalblue;
+}
+
+.rt{
+
+    text-align: center;
+}
+.second{
+
+    color: honeydew;
+}
+
+
+.third{
+
+    color: green;
+}
+
+.forth{
+
+    color: greenyellow;
+    
+}
+.intro{
+
+    width: 950px;
+    color: black;
+}
+
+.h1{
+
+    color: blue;
+}
+
+.arow{
+
+    padding-top: 4px;
+
+}
+.rtt{
+
+margin: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+*{
+
+    margin: 0;
+    padding: 0;
+    
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+
+.top{
+
+    background-color:royalblue;
+    padding: 11px;
+
+}
+
+.container{
+
+    width: 1200px;
+        margin: 0 auto
+}
+
+
+.topleft{
+
+    float: left;
+    
+ 
+} 
+
+.text{
+
+   float: left;
+   margin-left: 110px;
+
+    
+} 
+
+.topleft a{
+
+    margin: 0 7px;
+}
+
+.topright a button{
+
+    color: green;
+    margin: 0 5px;
+    padding: 0 2px;
+}
+
+
+.topright{
+
+    float: right
+    
+ 
+} 
+
+.clear{
+
+    clear: both;
+}
+
+
+.secondleft{
+
+    float: left;
+}
+
+.secondright{
+
+    float: right;
+    margin-top: 10px;
+}
+
+.second{
+
+    background-color: whitesmoke;
+    padding: 7px;
+}
+
+.secondright button{
+
+
+    margin: 0 5px;
+    border: none;
+    color: black;
+    background-color: whitesmoke;
+    font-size: 15px;
+    padding-left: 13px;
+    padding-right: 13px;
+   
+
+    
+}
+
+.secondright button:hover{
+
+
+
+background-color: royalblue;
+border-radius: 30px;
+color: white;
+
+} */
+
+/* .inline{
+
+    display: inline-block;
+}
+
+.topleft a {
+
+    padding: 3px;
+  
+}
+
+.text{
+    
+    padding-left: 140px;
+}
+.topright a button{
+
+    color:green;
+    margin: 3px;
+    padding: 2px;
+ 
+}
+
+.topright a {
+
+    padding-left: 15px;
+    
+ 
+} */
+
+
+
+
+
+
+/* 
+.main{
+
+    background-color: royalblue;
+    width: 100%;
+    height: 45px;
+    text-align: center;
+    line-height: 39px;
+    color: white;
+    font-size: 15px
+}
+
+
+.fb{
+
+        
+     position: absolute;
+    left: 90px;
+    top: 12px;
+    
+}
+
+.t{
+
+        
+    position: absolute;
+   left: 130px;
+   top: 12px;
+}
+
+.m{
+
+        
+    position: absolute;
+   left: 170px;
+   top: 12px;
+}
+
+.cam{
+
+        
+    position: absolute;
+   left: 210px;
+   top: 12px;
+
+   }
+
+   .whts{
+
+        
+    position: absolute;
+   left: 250px;
+   top: 12px;
+}
+
+.icon{
+
+        
+    position: absolute;
+  
+   top: 6px;
+   position: absolute;
+  
+   left: 1000px;
+   
+  
+}
+
+
+button{
+
+
+     font-size: 12px;
+     color: green
+     
+}
+
+
+.main1{
+
+    background-color: white;
+    width: 100%;
+    height: 75px;
+        line-height: 50px;
+        position: fixed;
+    
+}
+
+
+
+.main2{
+
+
+    width: 100%;
+    height: 190px;
+text-align: center;
+    top: 300px;
+    
+    line-height: 50px;
+    
+    
+}
+
+
+.logo{
+
+    position: absolute;
+    left: 50px;
+
+   
+}
+
+.side{
+
+        
+    position: absolute;
+   left: 580px;
+   top: 60px;
+   
+   
+   
+   
+  
+}
+
+.button1{
+
+        
+ 
+   border: none;
+   color: black;
+   background-color: white;
+   font-size: 15px;
+   padding-left: 12px;
+   padding-right: 12px;
+ 
+  
+}
+
+.button1:hover
+{
+
+background-color: royalblue;
+border-radius: 30px;
+color: white;
+
+}
+
+
+.mar{
+
+    background-color: skyblue;
+    position: absolute;
+    bottom: 12px;
+    width: 1250px;
+    margin-left: 45px;
+    margin-right: 45px;
+  
+}
+
+
+
+
+
+
+
+ */
+
+
+
+/* 
+form{
+
+    padding: 5px;
+    margin: 4px;
+    text-align: center;
+    
+}
+
+input{
+
+    padding: 5px 6px 7px 40px;
+    margin: 8px;
+    /* background-image: url(https://pluspng.com/img-png/email-icon-png-download-icons-logos-emojis-email-icons-2400.png); */
+    /* background-size: 35px;
+    background-repeat: no-repeat; */
+/* }
+
+button{
+
+    padding: 9px;
+    color: white;
+    background-color: lightblue;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+label{
+
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+
+ */
+ */
+
+/* 
+.main{
+
+    background-color: olivedrab;
+    width: 100%;
+    height: 80px;
+}
+
+.class1{
+
+    width: 30px;
+    height: 80px;
+    background-color: blue;
+    float: left;
+ 
+}
+
+.class2{
+    width: 70px;
+    height: 80px;
+    background-color: pink;
+
+   
+}
+
+
+.class3{
+    width: 130px;
+    height: 80px;
+    background-color: yellow;
+
+   
+}
+
+ */
+
+
+/* 
+div{
+
+
+    height: 40px;
+
+    background-color:royalblue
+}
+
+table {
+
+    height: 40px;
+    padding-left: 50px;
+    border-spacing: 10px 0px;
+
+}
+
+
+.b {
+ 
+   
+   float: right;
+   border-spacing: 13px 13px;   
+   display: inline-block;
+         
+    }
+
+    #text {
+
+ 
+     
+       
+    }
+
+    /* .image {
+ 
+        padding-left: auto
+
+           
+              
+         } */
+
+
+ */
+
+/*
+
+header{
+
+    width: 100%;
+    height: 40px;
+    background-color: olivedrab;
+}
+
+
+
+.main
+{
+
+    
+    width: 100%;
+    height: 40px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+   
+}
+
+.main .main1 {
+  
+    padding-right: 30px;
+    width: 150px;
+    height: 30px;
+    justify-content: center;
+
+}
+
+.main nav {
+
+   padding-left: 20px;
+    width: 50px;
+    height: 60px;
+    display: flex;
+
+}
+

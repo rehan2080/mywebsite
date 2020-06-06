@@ -1,0 +1,60 @@
+*{
+
+  font-family: sans-serif;
+}
+
+
+  h {
+    color: blueviolet;
+    font-size: x-large; 
+  }
+
+  .sub
+{
+    background-color: white;
+   
+}
+
+
+h1{
+
+    color: blueviolet;
+    font-size: larger; 
+}
+
+h2{
+
+color: blueviolet;
+font-size: x-large; 
+}
+
+body{
+
+    color: white;
+}
+
+button
+{
+
+  border-radius: 5px;
+  padding: 3px;
+  color: black;
+  margin-top: 0;
+  border: 1px solid black;
+}
+
+button:hover
+{
+
+ background-color: blue;
+ color: white;
+}
+
+fieldset{
+
+  width: 300px;
+  height: auto;
+  background-color: turquoise;
+  border-radius: 20px;
+}
+
